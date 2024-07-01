@@ -12,7 +12,7 @@ list_of_files = [
     "setup.py",
     "notebook/chatbot.ipynb",
     "app.py",
-    "static/styles.css",
+    "static/style.css",
     "templates/chatbot.html"
 ]
 
