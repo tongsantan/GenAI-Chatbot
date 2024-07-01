@@ -1,0 +1,9 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+langchain
+flask
+notebook
+PyPDF2
+chromadb
+langchain-community
+-e .
