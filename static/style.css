@@ -51,7 +51,7 @@ border-radius: 0 0 15px 15px !important;
 	height: 60px !important;
 	overflow-y: auto;
 }
-	.type_msg:focus{
+.type_msg:focus{
 	 box-shadow:none !important;
    outline:0px !important;
 }
@@ -128,11 +128,11 @@ border-radius: 0 0 15px 15px !important;
 	margin-left: 15px;
 }
 .user_info span{
-	font-size: 20px;
+	font-size: 30px;
 	color: white;
 }
 .user_info p{
-	font-size: 10px;
+	font-size: 20px;
 	color: rgba(255,255,255,0.6);
 }
 .video_cam{
