@@ -12,8 +12,6 @@ list_of_files = [
     "setup.py",
     "notebook/chatbot.ipynb",
     "app.py",
-    "static/style.css",
-    "templates/chatbot.html",
     "requirements.txt"
 ]
 
