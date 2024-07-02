@@ -28,10 +28,10 @@ python template.py
 pip install -r requirements.txt
 ```
 
-### STEP 04 - Model Prompts (Q&A) 
+### STEP 04 - Model Prompts (Docs Q&A) 
 
 ```bash
 # Finally run the following command
-python app.py
+streamlit run app.py
 ```
 
