@@ -13,7 +13,8 @@ list_of_files = [
     "notebook/chatbot.ipynb",
     "app.py",
     "static/style.css",
-    "templates/chatbot.html"
+    "templates/chatbot.html",
+    "requirements.txt"
 ]
 
 for filepath in list_of_files:
